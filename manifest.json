@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Node Cast",
+  "description": "Send the current URL to Node Remote",
+  "version": "0.1",
+  "options_page": "options.html",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "background": { "scripts": ["request.js"] },
+  "browser_action": {
+    "name": "Click to send this URL to Node Remote"
+  },
+  "browser_action": {
+    "default_icon": "icon-128.png"
+  }
+}

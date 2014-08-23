@@ -1,0 +1,1 @@
+Small chrome extension to send the active tab URL to node remote. I'll get some instructions up soon on how to install this locally. Eventually, I will put it up on the chrome store so it can be installed on your phone or tablet.
